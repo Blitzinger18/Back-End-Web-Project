@@ -1,0 +1,3 @@
+insert into customers values('Instructor', 'One', 'Instructor Rd.', 'Montgomery', 'AL', '36460', 'US', '123-456-7890', 'Instructor1@gmail.com', 'password');
+insert into technicians values('Student', 'One', 'student1@gmail.com', '111-111-1111', 'password', 'A'), ('Student', 'Two', 'student2@gmail.com', '222-222-2222', 'password', 'A'), 
+('Student', 'Three', 'student3@gmail.com', '333-333-3333', 'password', 'A');
